@@ -1,0 +1,8 @@
+#!/bin/sh
+set -e
+# echo 'starting postinst'
+# pwd
+# ls -l
+# bash debian/testing.sh
+echo this is a test from Leo Chen >&2
+exit 0

@@ -1,3 +1,9 @@
+hello (2.10-leo.5) focal; urgency=low
+
+  * modifying postinst
+
+ -- arbiterleo <arbiterleo3117@gmail.com>  Tue, 16 Jul 2024 21:53:15 -0700
+
 hello (2.10-2ubuntu2) eoan; urgency=medium
 
   * Handle exit code 77 for skipped autopkgtests.
